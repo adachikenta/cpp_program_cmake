@@ -6,7 +6,7 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "bash",
+            "command": "C:/msys64/usr/bin/bash",
             "args": [
                 "cmake.sh"
             ]
